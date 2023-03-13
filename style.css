@@ -1,0 +1,21 @@
+p{
+    color: rgb(5, 73, 100);
+    font-size: 22px;
+
+}
+li{
+    font-size: 20px;
+}
+#l1{
+    color:green;
+}
+#l2{
+    color:blue;
+}
+#l3{
+    color:rgb(90, 22, 87);
+}
+.col{
+    color: crimson;
+    font-size: 22px;
+}
